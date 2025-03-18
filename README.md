@@ -4,7 +4,7 @@ This is our Ecommerce project for industrial training in Brain Station solely do
 
 🌍 Live Demo
 
-🔗 Live Website
+🔗 [Live Website](https://example.com](https://bs23-ecommerce.netlify.app/))
 
 🚀 Deployment Details
 
