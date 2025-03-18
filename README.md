@@ -50,3 +50,42 @@ This is our **Ecommerce project** for **industrial training** at **Brain Station
    ```sh
    git clone -b Front-end https://github.com/Binti016/TechStation.git
    cd Front-end
+
+2. **Install dependencies:**  
+   ```sh
+   npm install
+
+3. **Start the development server:**  
+   ```sh
+   npm run dev
+
+### 🔧 Backend Setup  
+
+1. **Clone the repository:**  
+   ```sh
+   git clone -b backend https://github.com/Binti016/TechStation.git
+   cd backend
+
+2. **Install dependencies:**  
+   ```sh
+   npm install
+
+3. **Set up environment variables (.env file):**  
+   ```sh
+   PORT = 5000
+   EMAIL = db_email
+   PASSWORD = db_password
+
+4. **Start the backend server:**  
+   ```sh
+   npm run dev
+   
+# 👥 Contributors
+Shohanur Rahman Shovo
+Zarif Zeisan Mustafa
+Md. Nahiduzzaman
+Afra Anan
+Boshita Roy Binti
+
+
+
