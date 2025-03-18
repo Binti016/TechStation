@@ -81,10 +81,10 @@ This is our **Ecommerce project** for **industrial training** at **Brain Station
    npm run dev
    
 # 👥 Contributors
-Shohanur Rahman Shovo
-Zarif Zeisan Mustafa
-Md. Nahiduzzaman
-Afra Anan
+Shohanur Rahman Shovo,
+Zarif Zeisan Mustafa,
+Md. Nahiduzzaman,
+Afra Anan,
 Boshita Roy Binti
 
 
